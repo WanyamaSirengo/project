@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c00d4865-1cc8-4d14-ba0e-659e947967df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1tkS9jK3ipqEXdktj5C9OclQtqq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c00d4865-1cc8-4d14-ba0e-659e947967df" name="Default Changelist" comment="" />
+      <created>1623311444895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623311444895</updated>
+      <workItem from="1623311446202" duration="2669000" />
+      <workItem from="1623322889469" duration="373000" />
+      <workItem from="1623567838818" duration="4865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="169" width="448" height="387" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623312807363">
+      <screen x="0" y="0" width="1024" height="742" />
+    </state>
+    <state x="283" y="169" width="448" height="387" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1024.742@0.0.1024.742" timestamp="1623312807363" />
+    <state x="289" y="106" width="424" height="510" key="FileChooserDialogImpl" timestamp="1623311565120">
+      <screen x="0" y="0" width="1024" height="742" />
+    </state>
+    <state x="289" y="106" width="424" height="510" key="FileChooserDialogImpl/0.0.1024.742@0.0.1024.742" timestamp="1623311565120" />
+  </component>
+</project>
